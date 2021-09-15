@@ -10,7 +10,7 @@ This Book Search Engine utilized starting code with a fully functioning Google B
 ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
-  * [Screenshots](#screenshots)
+  * [Animations](#animations)
   * [Credits](#credits)
   * [License](#license)
 
