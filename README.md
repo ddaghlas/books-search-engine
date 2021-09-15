@@ -58,7 +58,10 @@ then a modal appears on the screen with a toggle between the option to log in or
 
 This app uses the following libraries and modules: 
 
-* Express
+* React.js
+* MongoDB
+* Express.js
+* Node.js
 * Mongoose
 * Express.Router
 * Compass for viewing the database
