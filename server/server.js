@@ -9,8 +9,10 @@ const routes = require('./routes');
 const app = express();
 const PORT = process.env.PORT || 3001;
 
+let server = null;
+
 async function startServer() {
-  const server = new ApolloServer({
+  server = new ApolloServer({
     typeDefs,
     resolvers,
     context: authMiddleware,
